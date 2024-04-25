@@ -719,3 +719,25 @@
       }
     }
     
+    .systm01{
+      h2{
+        
+        width: 50%;
+        margin: 1% auto;
+      }
+      
+      table {
+        width: 50%;
+        margin: 0 auto;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: center;
+    }
+    th {
+        
+    }
+    margin-bottom: 15%;
+    }
